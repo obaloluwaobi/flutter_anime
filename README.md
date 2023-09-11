@@ -1,16 +1,28 @@
-# food_recipe
+# Anime Wallpaper App
 
-A new Flutter project.
+A beautiful anime wallpaper app with a little collection of stunning images for your devices
 
-## Getting Started
+## Features
+- Just few HD wnime wallpaper to choose from,
+- User can download and save a selected image,
+- User can set selelcted image as Wallpaper with dialog of wallpaper options
 
-This project is a starting point for a Flutter application.
+## Screenshots
+# splash
+![Uploading Screenshot_20230905-195444.jpg…]()
 
-A few resources to get you started if this is your first Flutter project:
+# homepage
+![Screenshot_20230905-195451](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/59c23609-6201-4221-ae45-e1bb672b4bcc)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# content
+![Uploading Screenshot_20230905-195456.jpg…]()
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Save and set image as background Wallpaper
+![Screenshot_20230613-090038](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/dcf5c123-40e1-4f5e-84a1-31b524a16db7)
+
+## Screenrecord
+
+
+
+## Note
+pls note that you will have create your own api key in rapidapi and add it to your code @model file
