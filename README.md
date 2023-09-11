@@ -1,4 +1,4 @@
-# Anime Wallpaper App
+![Screenshot_20230905-195500](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/44af29a3-531e-41f0-b44f-70cc908b4c43)![Screenshot_20230905-195500](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/10e9ecc7-c0a8-4b3f-939a-b2396d162404)# Anime Wallpaper App
 
 A beautiful anime wallpaper app with a little collection of stunning images for your devices
 
@@ -9,16 +9,18 @@ A beautiful anime wallpaper app with a little collection of stunning images for 
 
 ## Screenshots
 # splash
-![Uploading Screenshot_20230905-195444.jpg…]()
+![Screenshot_20230905-195444](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/d57c0bd9-c1f8-492d-bd39-54424b718d07)
 
 # homepage
 ![Screenshot_20230905-195451](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/59c23609-6201-4221-ae45-e1bb672b4bcc)
 
 # content
-![Uploading Screenshot_20230905-195456.jpg…]()
+![Screenshot_20230905-195456](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/153b0a97-d99e-4375-85b0-82efdd591059)
 
 # Save and set image as background Wallpaper
-![Screenshot_20230613-090038](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/dcf5c123-40e1-4f5e-84a1-31b524a16db7)
+
+![Screenshot_20230905-195500](https://github.com/obaloluwaobi/Flutter-Anime-Wallapaper-App/assets/101903208/f1070e49-4e52-4361-afbc-c2b2c65e7324)
+
 
 ## Screenrecord
 
